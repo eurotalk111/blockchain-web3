@@ -14,3 +14,6 @@ Then follow the steps below if you'd like to test the blockchain system.
 3. Mine blocks with the ``/mine`` endpoint
 
 4. Check the chain with ``/chain``
+
+⚠️ The endpoint ``/transactions/new`` will say **METHOD NOT ALLOWED**, please test other endpoints while I
+attempt to fix the program.
